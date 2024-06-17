@@ -1,0 +1,16 @@
+{
+  "name": "nsd-zeroconf-plugin",
+  "version": "0.0.1",
+  "description": "A Cordova plugin to utilize the NSDManager for NSD service discovery",
+  "cordova": {
+    "id": "cordova-plugin-nsd-zeroconf",
+    "platforms": [
+      "android"
+    ]
+  },
+  "scripts": {
+    "build": "echo 'no build necessary'"
+  },
+  "author": "",
+  "license": "MIT"
+}
